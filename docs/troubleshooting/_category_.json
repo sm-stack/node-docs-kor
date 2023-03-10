@@ -1,0 +1,11 @@
+{
+  "position": 5,
+  "label": "노드 문제 해결",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "troubleshooting",
+    "title": "일반적인 오류 문제 해결"
+  }
+}

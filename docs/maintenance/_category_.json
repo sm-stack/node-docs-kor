@@ -1,0 +1,11 @@
+{
+  "position": 6,
+  "label": "노드 유지관리",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "maintenance",
+    "title": "유지관리 및 네트워크 업그레이드"
+  }
+}

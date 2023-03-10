@@ -1,0 +1,11 @@
+{
+  "position": 3,
+  "label": "RPC 노드",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "rpc",
+    "title": "RPC 노드"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "position": 4,
+  "label": "아카이브 노드",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "archival",
+    "title": "아카이브 노드"
+  }
+}

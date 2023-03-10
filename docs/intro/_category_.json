@@ -1,0 +1,11 @@
+{
+  "position": 1,
+  "label": "NEAR 노드 소개",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "intro",
+    "title": "Introduction"
+  }
+}

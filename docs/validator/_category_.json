@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "밸리데이터 노드",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "validator",
+    "title": "밸리데이터 노드"
+  }
+}
