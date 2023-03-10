@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[841],{1877:e=>{e.exports=JSON.parse('{"title":"Introduction","slug":"intro","permalink":"/node-docs-kor/intro","navigation":{"previous":{"title":"NEAR \ub178\ub4dc","permalink":"/node-docs-kor/"},"next":{"title":"\ub178\ub4dc\ub780?","permalink":"/node-docs-kor/intro/what-is-a-node"}}}')}}]);
